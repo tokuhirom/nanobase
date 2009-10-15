@@ -1,6 +1,6 @@
 // see RFC 4648
 #include "../nanobase.h"
-#include "../extlib/nanotap.h"
+#include <nanotap/nanotap.h>
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -22,5 +22,6 @@ int main() {
     TEST( "fooba",  "Zm9vYmE=" );
     TEST( "foobar", "Zm9vYmFy" );
     done_testing();
+    return 0;
 }
 
