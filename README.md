@@ -1,5 +1,7 @@
 # nanobase
 
+[![Build Status](https://travis-ci.org/tokuhirom/nanobase.svg?branch=master)](https://travis-ci.org/tokuhirom/nanobase)
+
 tiny BaseN encoding/decoding library for C/C++
 
 # SYNOPSIS
