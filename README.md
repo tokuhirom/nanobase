@@ -22,7 +22,7 @@ tiny BaseN encoding/decoding library for C/C++
 # LICENSE
 
     The MIT License (MIT)
-    Copyright © 2015 Tokuhiro Matsuno, http://64p.org/ <tokuhirom@gmail.com>
+    Copyright (C) 2015 Tokuhiro Matsuno, http://64p.org/ <tokuhirom@gmail.com>
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the “Software”), to deal
